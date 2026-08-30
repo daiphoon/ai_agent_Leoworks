@@ -1,0 +1,18 @@
+{
+  "explain_concept": {
+    "v1": {
+      "description": "用初学者能理解的方式解释一个概念",
+      "template": "请用简洁、通俗的中文解释 {concept}，并给出一个小例子。"
+    },
+    "v2": {
+      "description": "在解释概念后增加易错点",
+      "template": "请面向 Python 初学者解释 {concept}。依次给出：直观含义、一个小例子、一个常见易错点。"
+    }
+  },
+  "summarize": {
+    "v1": {
+      "description": "按指定字数概括文本",
+      "template": "请把下面内容概括为不超过 {max_chars} 个汉字：\n\n{text}"
+    }
+  }
+}
