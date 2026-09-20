@@ -7,6 +7,7 @@
 | 周次 | 作业 | 说明 |
 | --- | --- | --- |
 | Week 01 | [LLM 统一模型调用服务](week01/llm_gateway/README.md) | DeepSeek V4 Pro/Flash 的两种 API 协议统一网关 |
+| Week 02 | [工具治理与权限状态机](week02/tool_governance/README.md) | 高风险转账工具的校验、授权、审批、脱敏与审计演示 |
 
 ## 后续作业约定
 
